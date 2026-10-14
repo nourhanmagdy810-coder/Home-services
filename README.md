@@ -1,11 +1,11 @@
 
 # 🚀 Project Name
-HomeFix
+صَلّحْلِي
 
 ---
 
 ## 📌 Project Overview
-HomeFix is a home services application that connects customers with trusted professionals, such as plumbers, electricians, carpenters, and AC technicians. It allows users to find service providers, compare ratings and estimated prices, book appointments, and track their requests in one place.
+صَلّحْلِي is a home services application that connects customers with trusted professionals, such as plumbers, electricians, carpenters, and AC technicians. It allows users to find service providers, compare ratings and estimated prices, book appointments, and track their requests in one place.
 The project addresses the difficulty of finding reliable professionals, unclear service costs, scheduling issues, and the lack of trustworthy reviews when searching through social media or personal recommendations.
 Target Users: Customers who need home maintenance and repair services and
 Service providers, such as plumbers, electricians, carpenters, and AC technicians.
